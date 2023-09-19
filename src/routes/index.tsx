@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1>Hello world! Jilesh here</h1>
+      <h1>Hello world! JILESH here</h1>
       <p>
         <p1>
           This is paragraph 1.
