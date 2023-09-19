@@ -7,7 +7,7 @@ export default function NotFound() {
       <Title>Not Found</Title>
       <HttpStatusCode code={404} />
    
-      <p> This is paragraph 1
+      <p> Hello JILESH here, <br>This is paragraph 1
         <p3> Stay tuned for more updates..!</p3>
       </p>
     </main>
