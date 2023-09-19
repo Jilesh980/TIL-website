@@ -6,12 +6,10 @@ export default function Home() {
     <main>
       <Title>Hello World</Title>
       <h1>Hello world! Jilesh here</h1>
-      <Counter />
       <p>
         <p1>
           This is paragraph 1.
         </p1>
-  SO this is basically
       </p>
       <p2> This is paragraph 2..</p2>
     </main>
