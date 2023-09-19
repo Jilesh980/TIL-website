@@ -8,11 +8,10 @@ export default function Home() {
       <h1>Hello world! Jilesh here</h1>
       <Counter />
       <p>
-        Visit{" "}
         <p1>
           This is paragraph 1.
         </p1>
-        to learn how to build SolidStart apps.
+  SO this is basically
       </p>
       <p2> This is paragraph 2..</p2>
     </main>
