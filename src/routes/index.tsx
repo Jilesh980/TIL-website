@@ -11,7 +11,7 @@ export default function Home() {
           This is paragraph 1.
         </p1>
       </p>
-      <p2> This is paragraph 2 </p2><br></br>
+      <p2> This is paragraph 2 </p2><br>
       <p3> Stay tuned for more Updates..</p3>
     </main>
   );
