@@ -12,7 +12,7 @@ export default function NotFound() {
         <a href="https://start.solidjs.com" target="_blank">
           start.solidjs.com
         </a>{" "}
-        
+        <p3> Stay tuned for more updates..!</p3>
       </p>
     </main>
   );
